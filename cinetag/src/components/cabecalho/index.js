@@ -5,7 +5,7 @@ import Cabecalholink from "components/cabecalhoLink";
 
 function Cabecalho(){
     return(
-        <header className={style.Cabecalho}>
+        <header className={style.cabecalho}>
             <Link to="./">
                 <img src={logo} alt="logo"></img>
             </Link>
